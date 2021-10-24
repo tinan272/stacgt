@@ -1,4 +1,4 @@
-# stacgt
+# TECHNIQ
   Currently, coaching is an incredibly unique talent in sports, it requires a good eye, years or decades of experience, and a tenacious mindset. However, we here at Stac think that coaching can be made easier. We are introducing Techniq: a revolutionary app that's current state is just the beginning of the world of possibilities. With it, you simply feed it two images, one of yourself and one of a pro's , and Techniq will immediately give you specific advice about what you should adjust about your movements AND output an image of your two skeletons overlayed! Coming very soon is video support, where short clips of you and your pro will have your entire sequence analyzed, from figure skating jumps to golf swings! 
   
   Techniq was built using Google Mediapipe and OpenCV. Made by Charlie Liu, Tina Nguyen, Sheza Chaudhry, and Amal Chaudry at HackGT 8 in October of 2021.
